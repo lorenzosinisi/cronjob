@@ -6,6 +6,8 @@ Ruby 2.2.3
 
 ## Installation
 
+Register an account on http://guardiano.pm and get a token
+
 Add this line to your application's Gemfile:
 
 ```ruby
@@ -24,7 +26,7 @@ Or install it yourself as:
 
 ```ruby
 Cronjob.configure do |config|
-  config.token = 'token you get when registering an account on http://guardiano.com'
+  config.token = 'token you get when registering an account on http://guardiano.pm'
 end
 ```
 ```ruby
