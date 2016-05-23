@@ -2,6 +2,8 @@
 
 Online Cron Jobs Guardiano is a web based API service for scheduled or recurring tasks (cron jobs). The API can be integrated into users' applications. Add new tasks via API and when the time comes, the API service will send an request to the url provided and the scheduled job starts. The API uses RESTful calls and responses are formatted in JSON.
 
+Ruby 2.2.3
+
 ## Installation
 
 Add this line to your application's Gemfile:
