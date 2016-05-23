@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{Online Cron Jobs Guardiano is a web based API service for scheduled or recurring tasks (cron jobs)}
   spec.description   = %q{Online Cron Jobs Guardiano is a web based API service for scheduled or recurring tasks (cron jobs). The API can be integrated into users' applications. Add new tasks via API and when the time comes, the API service will send an request to the url provided and the scheduled job starts. The API uses RESTful calls and responses are formatted in JSON.}
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.homepage      = "https://github.com/lorenzosinisi"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org by setting 'allowed_push_host', or
